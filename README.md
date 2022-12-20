@@ -1,3 +1,3 @@
 # ProjDioJavaBasico
 Repositório para armazenar todo o conteúdo do curso de Java Básico
-Nova Mensagem
+Alterando o conteudo de uma rquivo de forma local com a interação do VSC
